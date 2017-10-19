@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color android:id="@+id/color1" android:layout_height="wrap_content" android:layout_width="wrap_content" name="gray">#EEEEE0</color>
+    <color name="black">#000000</color>
+	<color name="white">#FFFFFF</color>
+	<color name="msgGray">#A8A8A8</color>
+	<color name="green">#00CD00</color>
+	<color name="blue">#00CD00</color>
+    
+</resources>
